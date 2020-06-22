@@ -57,6 +57,7 @@
 
 * {
   box-sizing: border-box;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 body {
@@ -311,7 +312,7 @@ button {
 }
 
 .skill {
-  margin-bottom: 32px;
+  margin-bottom: 15px;
 }
 
 .skill__description {
